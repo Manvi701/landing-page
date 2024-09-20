@@ -1,0 +1,87 @@
+body{
+    background-color:#0e0e0e;
+}
+.topLink{
+    
+        padding-left: 10px; 
+        color:#9d9d9d;
+        font-style:normal;
+    
+    
+}
+#download{
+     color:white;
+     background-color: #337ab7;
+     cursor:pointer;
+     display:flex;
+     justify-content:end;
+     border:none;
+     border-radius:5px;
+     padding:8px 5px;
+     font-weight: 300;
+}
+.buttonlink{
+    text-decoration: none;
+    color:white;
+    font-weight: 110;
+    font-size:15px;
+}
+.container{
+    position:absolute;
+    display:flex;
+    flex-direction:column;
+    justify-content:left;
+    color:white;
+    
+    
+
+    
+}
+
+   .left{
+  
+    padding-bottom: 50px 50px;
+    color:white;
+
+   }
+   .sub-heading{
+    position:absolute;
+    font-size: 10px;
+    color:#9d9d9d;
+    padding: 6px 10px;
+    border-radius:30px;
+    border:1px solid gray;
+    
+    
+
+   }    
+   .download2{
+    color:white;
+    background-color: #337ab7;
+    cursor:pointer;
+    display:flex;
+    justify-content:end;
+    border:none;
+    border-radius:5px;
+    padding:15px 15px;
+    font-weight: 250;
+    font-size: large;
+    padding-right:20px;
+   }
+   .download3{
+    color:gray;
+    font-size:12px;
+    
+    
+    
+   }
+   .license{
+    color:gray;
+    font-size:9px;
+    padding-right:20px;
+   }
+   .header{
+    display:flex;
+    align-items:center;
+    padding-left:200px;
+   }
